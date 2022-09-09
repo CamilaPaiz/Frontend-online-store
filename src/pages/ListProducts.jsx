@@ -24,7 +24,6 @@ export default class ListProducts extends Component {
     });
   };
 
-  // filtro
   handleChange = async ({ target }) => {
     const { value } = target;
     this.setState({ product: value });
