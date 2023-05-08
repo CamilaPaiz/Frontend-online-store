@@ -43,7 +43,8 @@ A aplicação possibilita:
   <summary><strong>Devs responsáveis</strong></summary>
 
   - [Camila Paiz](https://github.com/CamilaPaiz)
-  - [Fabiana Inácio](https://github.com/)
-  - [Lucas]
+  - [Thales Santos](https://github.com/thalesorm)
+  - [Rônero](https://github.com/ronerog)
+  - [Lorena Moreira](https://github.com/lomgarcia)
 
 </details>
